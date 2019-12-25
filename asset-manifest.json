@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopping-app/static/css/main.07a718d4.chunk.css",
+    "main.js": "/shopping-app/static/js/main.466bcb93.chunk.js",
+    "main.js.map": "/shopping-app/static/js/main.466bcb93.chunk.js.map",
+    "runtime~main.js": "/shopping-app/static/js/runtime~main.760526e6.js",
+    "runtime~main.js.map": "/shopping-app/static/js/runtime~main.760526e6.js.map",
+    "static/js/2.a7fd8bd2.chunk.js": "/shopping-app/static/js/2.a7fd8bd2.chunk.js",
+    "static/js/2.a7fd8bd2.chunk.js.map": "/shopping-app/static/js/2.a7fd8bd2.chunk.js.map",
+    "index.html": "/shopping-app/index.html",
+    "precache-manifest.15b73691b13865ec32f25c486a245bf7.js": "/shopping-app/precache-manifest.15b73691b13865ec32f25c486a245bf7.js",
+    "service-worker.js": "/shopping-app/service-worker.js",
+    "static/css/main.07a718d4.chunk.css.map": "/shopping-app/static/css/main.07a718d4.chunk.css.map"
+  }
+}
