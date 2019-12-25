@@ -1,4 +1,5 @@
 {
+  "homepage": "http://farooq-azam-khan.github.io/shopping-app/",
   "name": "shopping-app",
   "version": "1.0.0",
   "description": "",
@@ -6,6 +7,7 @@
   "main": "src/index.js",
   "dependencies": {
     "bootstrap": "4.3.1",
+    "gh-pages": "^2.1.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-redux": "7.1.0",
@@ -18,6 +20,8 @@
     "typescript": "3.3.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -b gh-pages",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
